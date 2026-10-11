@@ -1,0 +1,71 @@
+{
+  "patient_id": "P002",
+  "profile": {
+    "name": "Alex Morgan",
+    "age": 32,
+    "sex": "male",
+    "height_cm": 178,
+    "weight_kg": 82
+  },
+  "biomarkers": [
+    {
+      "name": "vitamin_d",
+      "value": 15.0,
+      "unit": "ng/mL",
+      "reference_min": 20.0,
+      "reference_max": 50.0,
+      "date": "2026-10-05"
+    },
+    {
+      "name": "hba1c",
+      "value": 6.1,
+      "unit": "%",
+      "reference_min": 4.0,
+      "reference_max": 5.6,
+      "date": "2026-10-05"
+    },
+    {
+      "name": "ferritin",
+      "value": 85.0,
+      "unit": "ng/mL",
+      "reference_min": 30.0,
+      "reference_max": 300.0,
+      "date": "2026-10-05"
+    },
+    {
+      "name": "hemoglobin",
+      "value": 11.8,
+      "unit": "g/dL",
+      "reference_min": 13.5,
+      "reference_max": 17.5,
+      "date": "2026-10-05"
+    },
+    {
+      "name": "total_cholesterol",
+      "value": 225.0,
+      "unit": "mg/dL",
+      "reference_min": 125.0,
+      "reference_max": 200.0,
+      "date": "2026-10-05"
+    },
+    {
+      "name": "tsh",
+      "value": 2.5,
+      "unit": "mIU/L",
+      "reference_min": 0.4,
+      "reference_max": 4.0,
+      "date": "2026-10-05"
+    }
+  ],
+  "lifestyle": {
+    "sleep_hours": 6.5,
+    "exercise_days_per_week": 4,
+    "diet_type": "balanced",
+    "stress_level": "high"
+  },
+  "medical_history": {
+    "conditions": [],
+    "medications": [],
+    "allergies": []
+  }
+}
